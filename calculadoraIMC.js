@@ -3,3 +3,5 @@ function calcularIMC(ps, alt){
 
    console.log(`${ps} / (${alt} ^ 2) = ${rst}`);
 }
+
+calcularIMC(47.5, 1.60)
